@@ -1,0 +1,27 @@
+{
+  "name": "vhostess",
+  "description": "virtual host sub-domain mapping",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jonathan Ong",
+    "email": "me@jongleberry.com",
+    "url": "http://jongleberry.com",
+    "twitter": "https://twitter.com/jongleberry"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expressjs/vhostess.git"
+  },
+  "bugs": {
+    "mail": "me@jongleberry.com",
+    "url": "https://github.com/expressjs/vhostess/issues"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
