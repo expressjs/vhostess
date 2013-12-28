@@ -2,6 +2,8 @@
 
 Virtual host sub-domain mapping. This is semi-extracted from [connect.vhost()](http://www.senchalabs.org/connect/vhost.html).
 
+This is different than connect's `vhost` as it sits between the HTTP server and any "apps" instead of being used within an app.
+
 ## Example
 
 ```js
