@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **This repository is archived and no longer actively maintained.**
+>
+> We are no longer accepting issues, feature requests, or pull requests.
+> For additional support or questions, please visit the [Express.js Discussions page](https://github.com/expressjs/express/discussions).
+
+
 # Virtual Hostess [![Build Status](https://travis-ci.org/expressjs/vhostess.png)](https://travis-ci.org/expressjs/vhostess)
 
 Virtual host sub-domain mapping. This is semi-extracted from [connect.vhost()](http://www.senchalabs.org/connect/vhost.html).
